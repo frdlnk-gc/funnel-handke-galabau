@@ -1,0 +1,139 @@
+{
+ "firma": "Handke GaLaBau",
+ "stelle": "Gärtner (m/w/d) – Gartenpflege",
+ "ort": "Essen",
+ "plz": "45219",
+ "branche": "galabau",
+ "farbe_primary": "#01484A",
+ "farbe_secondary": "#012525",
+ "region_badge": "Essen & Umgebung",
+ "benefit_top": "Unbefristet & ohne Montage",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag in Vollzeit",
+  "Festes Zweierteam – Einsatzplanung und Kundenbetreuung übernimmt die Firma",
+  "Keine Montageeinsätze mit Übernachtung",
+  "Faire, pünktliche Vergütung – auch während der Schlechtwettersaison",
+  "Bezahlte fachliche Fortbildungen & Anhängerführerschein auf Firmenkosten",
+  "Betriebliche Altersvorsorge & vermögenswirksame Leistungen",
+  "Fahrtkostenzuschuss, Firmenhandy & Getränke-Flatrate",
+  "Wohnraum-Angebot & Hilfe bei der Wohnungssuche"
+ ],
+ "aufgaben": [
+  "Du pflegst eigenständig hochwertige Privatgärten im Essener Süden und Umgebung",
+  "Du übernimmst den fachgerechten Gehölz-, Hecken- und Formschnitt",
+  "Du pflegst und entwickelst Staudenpflanzungen, Beete und Rasenflächen",
+  "Du erkennst Pflanzenprobleme und notwendigen Pflegebedarf",
+  "Du unterstützt deinen Teamkollegen fachlich und entwickelst ihn weiter",
+  "Du wirkst an der Verbesserung der Pflegeabläufe und Qualitätsstandards mit"
+ ],
+ "anforderung": "Praktische Erfahrung in der qualifizierten Gartenpflege und Pflanzen- und Gehölzkenntnisse – du musst kein Pflanzengenie sein, bei Bedarf bringt Handke dir alles bei. Passionierte Quereinsteiger sind willkommen. Dazu eine sorgfältige, zuverlässige und selbstständige Arbeitsweise, ein gepflegtes Auftreten und Führerschein Klasse B oder BE.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Garten- & Landschaftsbau",
+   "icon": "🌿",
+   "qualifikationen": [
+    {
+     "label": "Ausgebildeter Gärtner",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Gärtnerei / Baumschule / Stauden",
+   "icon": "🌱",
+   "qualifikationen": [
+    {
+     "label": "Ausgebildeter Gärtner",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Quereinsteiger mit Pflanzenliebe",
+   "icon": "🌻",
+   "qualifikationen": [
+    {
+     "label": "Erfahrung in der Gartenpflege",
+     "icon": "✂️"
+    },
+    {
+     "label": "Ausbildung in anderem Beruf",
+     "icon": "📘"
+    },
+    {
+     "label": "Ohne Vorerfahrung",
+     "icon": "🌱"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Ausbildung in anderem Beruf",
+     "icon": "📘"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "25+",
+    "label": "Jahre Erfahrung"
+   },
+   {
+    "zahl": "rund 20",
+    "label": "Mitarbeiter"
+   },
+   {
+    "zahl": "2er",
+    "label": "Teams"
+   }
+  ],
+  "text": "Handke Garten- und Landschaftsbau ist ein familiengeführtes Unternehmen mit Sitz im Essener Süden. Seit über 25 Jahren plant, baut und pflegt das Team unter der Leitung von Dipl.-Ing. Jörg Handke Gärten und Außenanlagen für private und öffentliche Auftraggeber – mit kurzen Entscheidungswegen, respektvollem Umgang und gegenseitiger Unterstützung."
+ },
+ "kunde_tab": "45 Handke GaLaBau",
+ "quelle": "https://handke-galabau.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Essen (45219)"
+ },
+ "hero_bild": "img/hero-park.jpg",
+ "bilder": [
+  "img/f1-teich-wasserfall.jpg",
+  "img/f2-pool-garten.jpg",
+  "img/f3-herbstgarten-teich.jpg",
+  "img/f4-parkgarten.jpg"
+ ],
+ "meta_geo": [
+  "Meisenburgstraße 270, 45219 Essen"
+ ]
+}
